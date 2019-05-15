@@ -1,7 +1,7 @@
 <?php
 use App\src\App as App;
 /*
-*
+* Loading Vendor Folder
 */
 require_once ROOT . DIRECTORY_SEPARATOR . '/vendor/autoload.php';
 
